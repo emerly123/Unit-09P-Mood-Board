@@ -1,0 +1,29 @@
+body {
+ text-align:center;   
+ font-family: 'Indie Flower', cursive;
+ text-decoration: underline;
+ color: blue;
+}
+
+img {
+ height:100px;   
+}
+
+.images{
+ margin-top:10px;   
+}
+input{
+    width:130px;
+}
+h1{
+    border:5px solid red;
+    
+}
+p{
+    border:5px dotted red;
+    font-size:20px;
+}
+button:hover {
+    transform: rotate(360deg);
+    transition: 3s;
+}
